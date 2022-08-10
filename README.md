@@ -6,4 +6,5 @@ Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
 
 Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
 
-## Step
+Back Link from Replit: https://replit.com/@Oprahh/mern-stack-exercise-tracker-mongodb-backend#index.js
+Temp Link: https://mern-stack-exercise-tracker-mongodb-backend.oprahh.repl.co/
