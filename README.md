@@ -8,3 +8,5 @@ Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-buildin
 
 Back Link from Replit: https://replit.com/@Oprahh/mern-stack-exercise-tracker-mongodb-backend#index.js
 Temp Link: https://mern-stack-exercise-tracker-mongodb-backend.oprahh.repl.co/
+
+Front-End Demo Live: https://mern-stack-exercise-tracker-mongodb.vercel.app/
