@@ -9,8 +9,8 @@ const Exercise = props => (
     <td>{props.exercise.duration}</td>
     <td>{props.exercise.date.substring(0,10)}</td>
     <td>
-    <button className='btn btn-primary'><Link to={"/edit/"+props.exercise._id}>Edit</Link></button>
-       | <button className='btn btn-info' onClick={() => { props.deleteExercise(props.exercise._id)}}>Delete</button>
+    <Link to={"/edit/"+props.exercise._id} className="btn btn-primary mr-2 btn-sm">Edit</Link>
+        <button className='btn btn-info btn-sm' onClick={() => { props.deleteExercise(props.exercise._id)}}>Delete</button>
     </td>
   </tr>
 )
